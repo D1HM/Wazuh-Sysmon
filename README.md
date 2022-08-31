@@ -1,7 +1,7 @@
 # README
 
 explan how to Wazuh server Installation & Configuring in Virtualbox and Sysmon Integration 
-باللغة العربية :)
+شرح تثبيت واعداد Wazuh Server في Virtualbox وتثبيت واعداد Sysmon ودمجهما معا 
 resources:
 1. https://noctedefensor.com/security-onion-wazuh-installation/
 2. https://www.codegrepper.com/code-examples/shell/check+all+services+running+in+centos
