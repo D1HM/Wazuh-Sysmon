@@ -1,4 +1,4 @@
-# Wazuh server Installation and Sysmon Integration
+# Wazuh server Installation and Sysmon Integration <شرح عربي>
 
 
 resources:
