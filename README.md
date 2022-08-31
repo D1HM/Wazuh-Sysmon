@@ -1,6 +1,6 @@
 # README
 
-Wazuh server Installation & Configuring in Virtualbox and Sysmon Integration
+explan how to Wazuh server Installation & Configuring in Virtualbox and Sysmon Integration <Arabic>
 
 resources:
 1. https://noctedefensor.com/security-onion-wazuh-installation/
